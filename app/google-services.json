@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294116526583",
+    "project_id": "demonotifpush-56eae",
+    "storage_bucket": "demonotifpush-56eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294116526583:android:d9c5cff4344758f09a86f2",
+        "android_client_info": {
+          "package_name": "com.example.demonotifpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294116526583-5bo5d1s70r264t1npphli86ge0foj5j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDZQekYhtAaw-Hmaxr_YQF-ic_2tm9kYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294116526583-5bo5d1s70r264t1npphli86ge0foj5j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
